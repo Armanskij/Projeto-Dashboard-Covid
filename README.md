@@ -16,7 +16,9 @@ Para a realização desse projeto foram coletados dados das seguintes fonte:
 
 Neste projeto foram utilizadas técnicas consolidadas de ETL no Python como as bibliotecas pandas e numpy, para que após a coleta dos dados eles estivessem prontos para a utilização dentro de um visualizador interativo de dados (Looker Studio da Google), nele escolhemos os melhores gráficos e indicadores para mostrar como os casos de COVID-19 evoluíram ao decorrer do tempo e também como a vacinação teve um papel importante no combate à doença.
 
+# Visulizaçao
 
+[![Imagem Dashboard](https://github.com/Armanskij/Projeto-Dashboard-Covid/blob/main/covid-dashboard.pdf)](https://lookerstudio.google.com/reporting/77d46966-7b17-4b37-984c-7aed4f4bc647/page/6nk6D)
 # Ferramentas Utilizadas
 
 [![Math](https://img.shields.io/badge/Math-Module-blue.svg)](https://docs.python.org/3/library/math.html)
