@@ -18,7 +18,7 @@ Neste projeto foram utilizadas técnicas consolidadas de ETL no Python como as b
 
 # Visulizaçao
 
-[![Imagem Dashboard]([https://github.com/Armanskij/Projeto-Dashboard-Covid/blob/main/covid-dashboard.pdf](https://github.com/Armanskij/Projeto-Dashboard-Covid/blob/main/covid-dashboard-1.jpg))](https://lookerstudio.google.com/reporting/77d46966-7b17-4b37-984c-7aed4f4bc647/page/6nk6D)
+[![Imagem Dashboard](https://github.com/Armanskij/Projeto-Dashboard-Covid/blob/main/covid-dashboard-1.jpg)](https://lookerstudio.google.com/reporting/77d46966-7b17-4b37-984c-7aed4f4bc647/page/6nk6D)
 # Ferramentas Utilizadas
 
 [![Math](https://img.shields.io/badge/Math-Module-blue.svg)](https://docs.python.org/3/library/math.html)
